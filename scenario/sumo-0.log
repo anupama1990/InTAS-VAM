@@ -1,0 +1,28 @@
+***Starting server on port 59733 ***
+Loading net-file from 'InTAS_Crossing.net.xml' ... done (15ms).
+Loading additional-files from 'InTAS_Crossing_Pedestrians.rou.xml' ... done (145ms).
+Loading additional-files from 'InTAS_Vehicles.rou.alt.xml' ... done (247ms).
+Loading additional-files from 'SaturnArena_flow.add.xml' ... done (9ms).
+Loading additional-files from 'buildings.poly.xml' ... done (563ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 2.00
+Performance: 
+ Duration: 608.04s
+ Real time factor: 0.00328926
+ UPS: 0.004934
+ UPS-Persons: 0.004934
+Vehicles: 
+ Inserted: 2 (Loaded: 3386)
+ Running: 2
+ Waiting: 0
+Persons: 
+ Inserted: 4500
+ Running: 2
+
+DijkstraRouter answered 1 queries and explored 11.00 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.00ms on average).
+DijkstraRouter answered 2 queries and explored 14.50 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.00ms on average).
+DijkstraRouter answered 1 queries and explored 2.00 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.00ms on average).
